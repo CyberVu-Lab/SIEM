@@ -14,3 +14,26 @@ What are Log Sources, and how is log ingestion done?
 
 What are the capabilities a SIEM provides?
 
+
+Is Registry-related activity host-centric or network-centric?
+host-centric
+
+
+
+Is VPN related activity host-centric or network-centric?
+network-centric
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
